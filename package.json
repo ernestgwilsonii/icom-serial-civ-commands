@@ -1,0 +1,30 @@
+{
+  "name": "icom-serial-civ-commands",
+  "version": "1.0.0",
+  "description": "Icom serial CI-V commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestgwilsonii/icom-serial-civ-commands.git"
+  },
+  "keywords": [
+    "Icom",
+    "serial",
+    "CI-V",
+    "CIV",
+    "serial",
+    "commands"
+  ],
+  "author": "Ernest G. Wilson II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestgwilsonii/icom-serial-civ-commands/issues"
+  },
+  "homepage": "https://github.com/ernestgwilsonii/icom-serial-civ-commands#readme",
+  "dependencies": {
+    "serialport": "^9.2.0"
+  }
+}
